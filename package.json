@@ -42,7 +42,7 @@
     "rehype-katex": "^6.0.2",
     "rehype-prism-plus": "^1.6.3",
     "remark-behead": "^3.1.0",
-    "remark-gfm": "^3.0.1",
+    "remark-gfm": "^4.0.0",
     "remark-math": "^5.1.1",
     "remark-unwrap-images": "^3.0.1",
     "victory": "^36.6.11"
