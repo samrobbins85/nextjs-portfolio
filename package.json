@@ -40,7 +40,7 @@
     "react-simple-maps": "^3.0.0",
     "react-tooltip": "5.21.6",
     "rehype-katex": "^6.0.2",
-    "rehype-prism-plus": "^1.6.3",
+    "rehype-prism-plus": "^2.0.0",
     "remark-behead": "^3.1.0",
     "remark-gfm": "^3.0.1",
     "remark-math": "^5.1.1",
